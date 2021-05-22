@@ -30,3 +30,6 @@
 \cb9 11 cat /opt/AnastasiaBa/hw4.txt\cb1 \
 \cb9 12 cat /etc/os-release | grep -w NAME | awk '\{print $1\}' | sed 's/NAME="//g' >> /opt/AnastasiaBa/hw4.txt\cb1 \
 }
+
+
+/homework is done

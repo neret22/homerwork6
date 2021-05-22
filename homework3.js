@@ -117,4 +117,12 @@ tree\
 vi myfirstbashscript.sh\
 I\
 Esc :wq enter\
-./myfirstbashscript.sh}
+./myfirstbashscript.sh};
+
+
+////jdhghjfgdf ///jhgj hg/&
+
+//sayHello
+///Homework is done
+
+///another try
